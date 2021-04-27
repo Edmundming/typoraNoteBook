@@ -65,5 +65,5 @@ instanceof 是 Java 的一个二元操作符，它的作用是测试它左边的
 
 ## 5.基本数据类型
 
-
+![image-20210427170655013](https://raw.githubusercontent.com/Edmundming/typoraNotebook/master/img/image-20210427170655013.png)
 
